@@ -1,4 +1,4 @@
-## prediction_model_api
+## ANN_prediction_model_with flask gui
 this is a flask gui with ann model for prediction
 
 # Inputs must be done with 'post' request with all inputs are mandatory
